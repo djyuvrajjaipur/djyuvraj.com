@@ -1,1 +1,0 @@
-Place your audio files here as track-01.mp3, track-02.mp3 and track-03.mp3, or change CONFIG.tracks in js/script.js.
