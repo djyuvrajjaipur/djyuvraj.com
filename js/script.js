@@ -1,22 +1,22 @@
 const CONFIG = {
   tracks: [
     {
-      title: "Midnight Energy",
-      artist: "DJ YuvRaj",
+      title: "Dil Kaa Jo Haal Hai X Locked In (Mashup) - DJ YUVRAJ",
+      artist: "DJ YUVRAJ",
       cover: "images/music-01.jpg",
       audio: "audio/track-01.mp3",
       duration: "03:42"
     },
     {
-      title: "Afterdark Edit",
-      artist: "DJ YuvRaj",
+      title: "Kala Chashma X Jamaican Bam Bam (Hugel) - DJ YUVRAJ",
+      artist: "DJ YUVRAJ",
       cover: "images/music-02.jpg",
       audio: "audio/track-02.mp3",
       duration: "04:08"
     },
     {
-      title: "Desert Lights",
-      artist: "DJ YuvRaj",
+      title: "Aloo Chaat X Taka (Mashup) - DJ YUVRAJ",
+      artist: "DJ YUVRAJ",
       cover: "images/music-01.jpg",
       audio: "audio/track-03.mp3",
       duration: "03:56"
@@ -24,7 +24,7 @@ const CONFIG = {
   ],
 
   links: {
-    instagram: "https://www.instagram.com/djyuvrajjaipur/",
+    instagram: "https://www.instagram.com/djyuvraj/",
     youtube: "https://www.youtube.com/@djyuvrajofficlal",
     spotify: "https://open.spotify.com/artist/30G5vyltXLidrl4OsSzorm",
     soundcloud: "https://soundcloud.com/djyuvrajjaipur",
